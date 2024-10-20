@@ -33,6 +33,8 @@ Personally speaking,  presented by Teacher Wen, **Database System is one of the 
 * **Back-End:** JDBC MySQL
 * **Data Source:** [Official Premier League Website](https://www.premierleague.com/)
 * **Simple DEMO:**
+  - Video Demo:
+<Video src="demo.mp4" width="600" height="400" />
   - Main Page:
 <img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-1.png" width="600" height="400" />
 
@@ -46,6 +48,7 @@ Personally speaking,  presented by Teacher Wen, **Database System is one of the 
 
 * **Relationship Diagram**
 <img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/RD.png" width="600" height="400" />
+
 
 * **Code Structure:**
 ```
