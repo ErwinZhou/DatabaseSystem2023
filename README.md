@@ -36,18 +36,18 @@ Personally speaking,  presented by Teacher Wen, **Database System is one of the 
   - Video Demo:
 <video controls src="https://github.com/user-attachments/assets/02112d38-f0ef-40c1-8d80-2fd037c5d551" title="https"></video>
   - Main Page:
-<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-1.png" width="600" height="400" />
+<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2023/demo-1.png" width="600" height="400" />
 
   - Club Manager Mode:
-<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-3.png" width="600" height="400" />
+<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2023/demo-3.png" width="600" height="400" />
 
 
   - Top Goal Scorers:
-<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-2.png" width="600" height="400" />
+<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2023/demo-2.png" width="600" height="400" />
 
 
 * **Relationship Diagram**
-<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/RD.png" width="600" height="400" />
+<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2023/RD.png" width="600" height="400" />
 
 
 * **Code Structure:**
